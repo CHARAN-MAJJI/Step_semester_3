@@ -1,3 +1,25 @@
+<-------------------------------------SESSION_2--------------------------------------->
+## Date: 29-08-2026
+
+**Today's Work:**
+- Learned Constructor Overloading.
+- Learned `this()` constructor chaining.
+- Learned the `this` keyword for resolving field and parameter name clashes.
+- Learned `final` methods and how they prevent method overriding.
+- Learned Static Blocks and their one-time execution during class loading.
+- Learned `instanceof` for checking an object's actual type and safe casting with inheritance.
+
+**Next Session Plan:**
+- Complete the Session 2 problems.
+- Practice the concepts covered in this session.
+- Upload the completed work to the `feature/session_2` branch.
+
+**Issues Faced:**
+- Faced difficulties in understanding `this()` constructor chaining and static block execution.
+- Faced some syntax errors while implementing the concepts.
+- Faced difficulties while managing Git branches and pushing the work to GitHub.
+
+---
 <-------------------------------------SESSION_1--------------------------------------->
 ## Date: 23-08-2026
 
