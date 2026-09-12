@@ -1,0 +1,24 @@
+class IdCard {
+    String name;
+    int booksIssued;
+
+    IdCard(String n, int b) {
+        name = n;
+        booksIssued = b;
+    }
+}
+
+public class M4 {
+    public static void main(String[] args) {
+        IdCard ravi = new IdCard("Ravi", 0);
+
+        IdCard duplicate = ravi;
+        duplicate.booksIssued = 3;
+
+        IdCard separate = new IdCard("Ravi", 3);
+
+        System.out.println(ravi.booksIssued);
+        System.out.println(duplicate == ravi);
+        System.out.println(separate == ravi);
+    }
+}
