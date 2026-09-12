@@ -1,7 +1,7 @@
 # Step_semester_3
 Step Classes on Java
 <-------------------------------------SESSION_1--------------------------------------->
-## Date: 23-08-2026
+## Date: 01-08-2026
 
 **Today's Work:**
 - Attempted the given Category B OOP questions on paper before the explanation.
@@ -22,7 +22,7 @@ Step Classes on Java
 ------
 
 <-------------------------------------SESSION_2--------------------------------------->
-## Date: 29-08-2026
+## Date: 08-08-2026
 
 **Today's Work:**
 - Learned Constructor Overloading.
@@ -46,3 +46,124 @@ Step Classes on Java
 
  <-------------------------------------END-------------------------------------------->
 
+<-------------------------------------SESSION_3--------------------------------------->
+
+## Date: 22-08-2026
+
+**Today's Work:**
+
+- Learned the fundamentals of OOP, Classes, and Objects.
+- Learned how classes combine fields, constructors, and methods.
+- Learned how to create objects using the `new` keyword.
+- Learned the difference between instance members and `static` members.
+- Learned how constructors initialize objects.
+- Learned how `this` refers to the current object.
+- Learned reference variables and how multiple references can point to the same object.
+- Learned object identity using the `==` operator.
+- Practiced arrays of objects and instance methods.
+- Worked on Category B OOP problems involving classes, objects, constructors, encapsulation, reference copying, and static members.
+- Practiced the Week 3 problems and uploaded the completed work to GitHub.
+
+**Next Session Plan:**
+
+- Continue with constructor overloading and Java keywords.
+- Practice `this()`, `this`, `final`, static blocks, and `instanceof`.
+- Complete the next set of OOP problems.
+- Upload the completed work to GitHub.
+
+**Issues Faced:**
+
+- Faced difficulties in understanding the difference between objects and reference variables.
+- Faced difficulties in understanding instance and static members.
+- Faced some confusion while using constructors and `this`.
+- Faced syntax errors while implementing classes and objects.
+- Faced difficulties while managing Git branches and pushing the work to GitHub.
+
+---
+
+<-------------------------------------SESSION_4--------------------------------------->
+
+## Date: 29-08-2026
+
+**Today's Work:**
+
+- Learned Constructor Overloading using multiple constructors in the same class.
+- Learned `this()` constructor chaining to reuse constructor initialization.
+- Learned the `this` keyword for resolving field and parameter name clashes.
+- Learned `final` methods and how they prevent method overriding.
+- Learned Static Blocks and their one-time execution when the class is loaded.
+- Learned `instanceof` for checking an object's actual type.
+- Learned type casting with inheritance and safe casting using `instanceof`.
+- Practiced arrays and loops along with the OOP concepts.
+- Completed the Week 4 Category B practice problems.
+- Worked on the Week 4 Category B assignment problems.
+- Uploaded the completed work to GitHub.
+
+**Next Session Plan:**
+
+- Continue with Access Modifiers and Encapsulation.
+- Learn `private`, default, `protected`, and `public`.
+- Practice JavaBean conventions and getters/setters.
+- Learn immutable objects and defensive copying.
+- Complete the next set of problems.
+
+**Issues Faced:**
+
+- Faced difficulties in understanding the difference between `this` and `this()`.
+- Faced difficulties in understanding when static blocks execute.
+- Faced some confusion while using `final` methods.
+- Faced difficulties understanding `instanceof` and type casting with inheritance.
+- Faced syntax errors while implementing inheritance-related programs.
+- Faced difficulties while managing Git branches and pushing the work to GitHub.
+
+---
+
+<-------------------------------------SESSION_5--------------------------------------->
+
+## Date: 05-09-2026
+
+**Today's Work:**
+
+- Learned Access Modifiers in Java:
+  - `private`
+  - default
+  - `protected`
+  - `public`
+- Learned how access changes between the same class, same package, and different packages.
+- Learned the special `protected` access rule with inheritance across packages.
+- Learned Encapsulation and how private fields can be controlled through methods.
+- Learned the JavaBean standard using getters and setters.
+- Learned that boolean JavaBean properties use `isX()` instead of `getX()`.
+- Learned write-once properties using controlled setters.
+- Learned write-only properties where no getter is provided.
+- Learned immutable object design using `final` fields.
+- Learned defensive copying for arrays to protect immutable objects.
+- Learned the wither pattern, where a modified version returns a new object instead of changing the original.
+- Learned Static Blocks for one-time class-level initialization.
+- Learned `instanceof` for processing different object types safely.
+- Worked on the Week 5 Access Modifiers, Encapsulation & Object Modeling problems.
+- Practiced the Membership Field Reach Checker, Reference Desk Subclass Reach, Book Copy Circulation Guard, and LibraryMember JavaBean problems.
+- Uploaded the completed work to GitHub.
+
+**Next Session Plan:**
+
+- Complete the remaining Week 5 problem.
+- Practice Access Modifiers, Encapsulation, JavaBeans, and Immutability.
+- Review all OOP concepts covered in the previous sessions.
+- Verify and organize all Java files with the corresponding problem PDFs.
+- Continue maintaining the GitHub repository with the correct file names and folder structure.
+
+**Issues Faced:**
+
+- Faced difficulties in understanding the difference between default and protected access.
+- Faced difficulties understanding protected access across different packages.
+- Faced some confusion while implementing JavaBean getter and setter conventions.
+- Faced difficulties understanding write-once and write-only properties.
+- Faced difficulties understanding defensive copying and immutability.
+- Faced syntax and logic errors while implementing inheritance and `instanceof`.
+- Faced difficulties while organizing the Java files according to the correct PDF problems.
+- Faced some difficulties while managing Git branches and pushing the work to GitHub.
+
+---
+
+<-------------------------------------END--------------------------------------------->
