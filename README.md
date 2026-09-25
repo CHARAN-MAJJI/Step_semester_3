@@ -164,4 +164,71 @@ Step Classes on Java
 
 ---
 
+<-------------------------------------SESSION_6--------------------------------------->
+
+## Date: 12-09-2026
+
+**Today's Work:**
+
+- Learned Inheritance in Java and class hierarchies using the `extends` keyword.
+- Learned `super` keyword and constructor chaining with `super(...)`.
+- Learned Method Overriding and `@Override` annotation for customizing behavior in subclasses.
+- Learned Runtime Polymorphism (Dynamic Method Dispatch) where method execution is determined at runtime based on the actual object type.
+- Learned `instanceof` operator with multilevel inheritance hierarchies and sibling classes.
+- Worked on Week 6 Category B Class Problems and Assignment Problems.
+- Uploaded the completed work to GitHub.
+
+**Next Session Plan:**
+
+- Continue with Abstract Classes and Interfaces in Java.
+- Practice pure abstraction, multiple interface implementation, compile-time vs runtime polymorphism.
+
+**Issues Faced:**
+
+- Faced initial confusion with method overriding vs method overloading.
+- Faced syntax errors while using `super(...)` constructors in subclass initialization.
+- Faced difficulties managing branch workflows in Git.
+
+---
+
+<-------------------------------------SESSION_7--------------------------------------->
+
+## Date: 19-09-2026
+
+**Today's Work:**
+
+- Learned Abstract Classes and Abstract Methods in Java (`abstract` keyword).
+- Learned Interfaces (`interface`, `implements`) for contract-based design and pure abstraction.
+- Learned differences between Abstract Classes and Interfaces (single class inheritance vs multiple interface implementation).
+- Learned Multilevel Inheritance with abstract method overriding (calling `super.use()` / `super.play()` across hierarchy levels).
+- Learned Compile-Time Polymorphism (Method Overloading) vs Runtime Polymorphism (Method Overriding).
+- Learned type safety and safe casting using `instanceof` with independent interface implementations.
+- Worked on Week 7 Category B Class Problems:
+  - The Talking Toy Box (`Toy`, `ToyCar`, `ToyRobot`)
+  - Warehouse Label Printer (`Printable`, `PackageBox`, `Invoice`)
+  - Orchestra Warm-Up Routine (`Instrument`, `StringInstrument`, `Violin`)
+  - Smart Kitchen Assistant (`KitchenTool`, `Washable`, `Blender`)
+  - Package Drop-Off Log (`DeliveryNote`, `ParcelNote`, `LetterNote`)
+- Worked on Week 7 Category B Assignment Problems:
+  - Morning Wake-Up Circuit (`Ringable`, `AlarmClock`, `Doorbell`)
+  - Gallery Description Cards (`ArtPiece`, `Painting`, `Sculpture`)
+  - Backyard Toolshed Routine (`GardenTool`, `CuttingTool`, `Pruner`)
+  - Digital Classroom Setup (`ClassroomDevice`, `Chargeable`, `Tablet`)
+  - Skyline Delivery Fleet (`Drone`, `Trackable`, `DeliveryDrone`, `ScoutDrone`, `GroundRobot`)
+- Uploaded the completed work to GitHub.
+
+**Next Session Plan:**
+
+- Continue with advanced Java OOP concepts, Exception Handling, and Collections Framework.
+- Practice interface design and polymorphic hierarchy patterns.
+
+**Issues Faced:**
+
+- Faced initial confusion between abstract methods and base class implementations in abstract classes.
+- Faced issues with method overloading signature matching vs method overriding.
+- Faced difficulties managing Git branch checkouts and commits.
+
+---
+
 <-------------------------------------END--------------------------------------------->
+
