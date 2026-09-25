@@ -1,0 +1,39 @@
+import java.util.*;
+
+abstract class Instrument {
+    public abstract String play();
+}
+
+class StringInstrument extends Instrument {
+    public StringInstrument() {
+        super();
+    }
+
+    @Override
+    public String play() {
+        return "Strumming the strings";
+    }
+}
+
+class Violin extends StringInstrument {
+    public Violin() {
+        super();
+    }
+
+    @Override
+    public String play() {
+        return super.play() + ", with a bow drawn across four strings";
+    }
+}
+
+public class M3 {
+    public static void main(String[] args) {
+        System.out.println("=== Class Problem 3: Orchestra Warm-Up Routine ===");
+
+        StringInstrument s = new StringInstrument();
+        System.out.println(s.play());
+
+        Violin v = new Violin();
+        System.out.println(v.play());
+    }
+}
